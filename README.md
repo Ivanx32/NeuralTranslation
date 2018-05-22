@@ -1,6 +1,6 @@
 # NeuralTranslation
 
-Перенос древнерусского стиля.
+## Перенос древнерусского стиля.
 
 Особенности решения:
 
@@ -10,11 +10,12 @@
 
 3) Использована слегка модифицированная нейросетевая архитектура ByteNet (https://arxiv.org/abs/1610.10099).
 
+Обученная модель: https://www.dropbox.com/s/yvxbd2m8qh6eo7d/conv1d_54?dl=0
 
-Примеры сгенерированных фраз:
+
+## Примеры сгенерированных фраз:
 
 <img src="https://github.com/Ivanx32/NeuralTranslation/blob/master/example.png"  width="500">
 
 https://www.youtube.com/watch?v=4sVk68Rsjqg
 
-Обученная модель: https://www.dropbox.com/s/yvxbd2m8qh6eo7d/conv1d_54?dl=0
